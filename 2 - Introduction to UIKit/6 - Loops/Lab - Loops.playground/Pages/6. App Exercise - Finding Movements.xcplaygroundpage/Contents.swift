@@ -11,7 +11,13 @@
 let lowHR = 110
 let highHR = 125
 var movementHeartRates: [String: Int] = ["Walking": 85, "Running": 120, "Swimming": 130, "Cycling": 128, "Skiing": 114, "Climbing": 129]
-
+if let suggestedMovement = movementHeartRates.first(where: { (key, value) in
+    return value >= lowHR && value <= highHR
+})?.key {
+    print("You could go \(suggestedMovement).")
+} else {
+    print("No movement suggestions found.")
+}
 
 /*:
  _Copyright © 2023 Apple Inc._
