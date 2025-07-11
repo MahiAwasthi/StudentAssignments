@@ -12,5 +12,8 @@ This repository contains all the lab exercises from the **Develop in Swift Funda
 - Classes and Inheritance
 - Collections
 - Loops
-
+- Optionals
+- Guard
+- Constant and Variable Scope
+- Enumerations
 
