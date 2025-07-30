@@ -7,24 +7,24 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		3FDC707F2E2776C40003A44E /* Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Calculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3F4913152E372C3600EF129E /* Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Calculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		3FDC70912E2776C50003A44E /* Exceptions for "Calculator" folder in "Calculator" target */ = {
+		3F4913272E372C3800EF129E /* Exceptions for "Calculator" folder in "Calculator" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = 3FDC707E2E2776C40003A44E /* Calculator */;
+			target = 3F4913142E372C3600EF129E /* Calculator */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		3FDC70812E2776C40003A44E /* Calculator */ = {
+		3F4913172E372C3600EF129E /* Calculator */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				3FDC70912E2776C50003A44E /* Exceptions for "Calculator" folder in "Calculator" target */,
+				3F4913272E372C3800EF129E /* Exceptions for "Calculator" folder in "Calculator" target */,
 			);
 			path = Calculator;
 			sourceTree = "<group>";
@@ -32,7 +32,7 @@
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		3FDC707C2E2776C40003A44E /* Frameworks */ = {
+		3F4913122E372C3600EF129E /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -42,18 +42,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		3FDC70762E2776C40003A44E = {
+		3F49130C2E372C3600EF129E = {
 			isa = PBXGroup;
 			children = (
-				3FDC70812E2776C40003A44E /* Calculator */,
-				3FDC70802E2776C40003A44E /* Products */,
+				3F4913172E372C3600EF129E /* Calculator */,
+				3F4913162E372C3600EF129E /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		3FDC70802E2776C40003A44E /* Products */ = {
+		3F4913162E372C3600EF129E /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				3FDC707F2E2776C40003A44E /* Calculator.app */,
+				3F4913152E372C3600EF129E /* Calculator.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -61,64 +61,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		3FDC707E2E2776C40003A44E /* Calculator */ = {
+		3F4913142E372C3600EF129E /* Calculator */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3FDC70922E2776C50003A44E /* Build configuration list for PBXNativeTarget "Calculator" */;
+			buildConfigurationList = 3F4913282E372C3800EF129E /* Build configuration list for PBXNativeTarget "Calculator" */;
 			buildPhases = (
-				3FDC707B2E2776C40003A44E /* Sources */,
-				3FDC707C2E2776C40003A44E /* Frameworks */,
-				3FDC707D2E2776C40003A44E /* Resources */,
+				3F4913112E372C3600EF129E /* Sources */,
+				3F4913122E372C3600EF129E /* Frameworks */,
+				3F4913132E372C3600EF129E /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				3FDC70812E2776C40003A44E /* Calculator */,
+				3F4913172E372C3600EF129E /* Calculator */,
 			);
 			name = Calculator;
 			packageProductDependencies = (
 			);
 			productName = Calculator;
-			productReference = 3FDC707F2E2776C40003A44E /* Calculator.app */;
+			productReference = 3F4913152E372C3600EF129E /* Calculator.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		3FDC70772E2776C40003A44E /* Project object */ = {
+		3F49130D2E372C3600EF129E /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1640;
 				LastUpgradeCheck = 1640;
 				TargetAttributes = {
-					3FDC707E2E2776C40003A44E = {
+					3F4913142E372C3600EF129E = {
 						CreatedOnToolsVersion = 16.4;
 					};
 				};
 			};
-			buildConfigurationList = 3FDC707A2E2776C40003A44E /* Build configuration list for PBXProject "Calculator" */;
+			buildConfigurationList = 3F4913102E372C3600EF129E /* Build configuration list for PBXProject "Calculator" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 3FDC70762E2776C40003A44E;
+			mainGroup = 3F49130C2E372C3600EF129E;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 3FDC70802E2776C40003A44E /* Products */;
+			productRefGroup = 3F4913162E372C3600EF129E /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				3FDC707E2E2776C40003A44E /* Calculator */,
+				3F4913142E372C3600EF129E /* Calculator */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		3FDC707D2E2776C40003A44E /* Resources */ = {
+		3F4913132E372C3600EF129E /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -128,7 +128,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		3FDC707B2E2776C40003A44E /* Sources */ = {
+		3F4913112E372C3600EF129E /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -138,7 +138,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		3FDC70932E2776C50003A44E /* Debug */ = {
+		3F4913292E372C3800EF129E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -165,7 +165,7 @@
 			};
 			name = Debug;
 		};
-		3FDC70942E2776C50003A44E /* Release */ = {
+		3F49132A2E372C3800EF129E /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -192,7 +192,7 @@
 			};
 			name = Release;
 		};
-		3FDC70952E2776C50003A44E /* Debug */ = {
+		3F49132B2E372C3800EF129E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -255,7 +255,7 @@
 			};
 			name = Debug;
 		};
-		3FDC70962E2776C50003A44E /* Release */ = {
+		3F49132C2E372C3800EF129E /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -314,25 +314,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		3FDC707A2E2776C40003A44E /* Build configuration list for PBXProject "Calculator" */ = {
+		3F4913102E372C3600EF129E /* Build configuration list for PBXProject "Calculator" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				3FDC70952E2776C50003A44E /* Debug */,
-				3FDC70962E2776C50003A44E /* Release */,
+				3F49132B2E372C3800EF129E /* Debug */,
+				3F49132C2E372C3800EF129E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3FDC70922E2776C50003A44E /* Build configuration list for PBXNativeTarget "Calculator" */ = {
+		3F4913282E372C3800EF129E /* Build configuration list for PBXNativeTarget "Calculator" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				3FDC70932E2776C50003A44E /* Debug */,
-				3FDC70942E2776C50003A44E /* Release */,
+				3F4913292E372C3800EF129E /* Debug */,
+				3F49132A2E372C3800EF129E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 3FDC70772E2776C40003A44E /* Project object */;
+	rootObject = 3F49130D2E372C3600EF129E /* Project object */;
 }
