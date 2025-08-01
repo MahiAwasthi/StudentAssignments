@@ -17,3 +17,21 @@ This repository contains all the lab exercises from the **Develop in Swift Funda
 - Constant and Variable Scope
 - Enumerations
 
+## Assignments
+
+### Guided Project
+
+- Light
+- Apple Pie
+- Personality Quiz
+  
+### Others
+
+- BMI Calculator
+- Calculator
+- About Me
+- Login
+- Order Of Events
+- Segue and Navigation
+- ViewController Life Cycle
+- Add 5 elements
