@@ -22,6 +22,7 @@ This repository contains all the lab exercises from the **Develop in Swift Funda
 ### Guided Project
 
 - Light
+- List
 - Apple Pie
 - Personality Quiz
   
@@ -36,4 +37,7 @@ This repository contains all the lab exercises from the **Develop in Swift Funda
 - ViewController Life Cycle
 - Add 5 elements
 - MoodMeal
-  
+- System View Controller
+- HomeFurniture Sharing
+- EmployeeRoster
+- MealTracker
