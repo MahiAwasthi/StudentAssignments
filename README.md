@@ -38,4 +38,6 @@ This repository contains all the lab exercises from the **Develop in Swift Funda
 - Add 5 elements
 - MoodMeal
 - System View Controller
-  
+- HomeFurniture Sharing
+- EmployeeRoster
+- MealTracker
