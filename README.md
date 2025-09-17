@@ -41,3 +41,5 @@ This repository contains all the lab exercises from the **Develop in Swift Funda
 - HomeFurniture Sharing
 - EmployeeRoster
 - MealTracker
+- Favorite Books
+- Remember your Emojis
