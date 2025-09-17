@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  EventDetailsEditor
 //
-//  Created by Kshitiz on 12/08/25.
+//  Created by StudentStudent on 12/08/25.
 //
 
 import UIKit
