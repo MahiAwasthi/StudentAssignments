@@ -20,14 +20,15 @@ This repository contains all the lab exercises from the **Develop in Swift Funda
 ## Assignments
 
 ### Guided Project
-
+#### Fundamentals
 - Light
-- List
 - Apple Pie
 - Personality Quiz
+#### Data Collections
+- List
   
 ### Others
-
+#### Fundamentals
 - BMI Calculator
 - Calculator
 - About Me
@@ -37,6 +38,7 @@ This repository contains all the lab exercises from the **Develop in Swift Funda
 - ViewController Life Cycle
 - Add 5 elements
 - MoodMeal
+#### Data Collections
 - System View Controller
 - HomeFurniture Sharing
 - EmployeeRoster
